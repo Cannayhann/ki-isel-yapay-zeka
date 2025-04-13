@@ -1,1 +1,1 @@
-# kisisel-yapay-zeka
+# kisisel-yapay-zeka-projesi
