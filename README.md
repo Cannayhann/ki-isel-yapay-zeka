@@ -1,1 +1,1 @@
-# ki-isel-yapay-zeka
+# kisisel-yapay-zeka
